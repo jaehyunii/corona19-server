@@ -1,0 +1,9 @@
+{
+    "db":{
+        "user":"mize159",
+        "passwd":"ahdk2424159!",
+        "host":"localhost",
+        "db":"corona",
+        "charset":"utf8"
+    }
+}
